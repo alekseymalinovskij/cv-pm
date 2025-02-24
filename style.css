@@ -276,6 +276,14 @@ pre {
 	}
 
 }
+.mt-10 {
+	margin-top: 50px;
+}
+@media screen and (max-width: 767px) {
+	.mt-10 {
+		margin-top: 30px;
+	}
+}
 
 .page-footer {
 	background: #828282;
